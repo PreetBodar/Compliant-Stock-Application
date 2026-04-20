@@ -92,13 +92,6 @@ Result categories:
 - Compliant (Halal)
 - Non-compliant (Haram)
 
-## Contributing
-
-Contributions are welcome. Follow these guidelines:
-- Fork the repository and create a feature branch
-- Add or update tests for behavior changes
-- Keep changes scoped and well-documented
-
 ## License
 
 Specify project license in the repository root (e.g., LICENSE file).
