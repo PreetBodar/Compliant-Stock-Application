@@ -2,7 +2,7 @@
 
 ## Overview
 
-Stock Compliance API is a .NET-based backend application designed to manage users, stocks, and financial data while evaluating stock compliance based on ethical (Shariah-inspired) investment principles. The API integrates external financial data providers and applies a set of custom rules to determine whether a stock is compliant (Halal) or non-compliant (Haram).
+Stock Compliance API is a .NET-based backend application designed to manage users, stocks, and financial data while evaluating stock compliance based on ethical investment principles. The API integrates external financial data providers and applies a set of custom rules to determine whether a stock is compliant or non-compliant.
 
 ## Features
 
@@ -23,7 +23,7 @@ Stock Compliance API is a .NET-based backend application designed to manage user
   - Sector screening
   - Debt ratios, cash ratios, asset composition
   - Revenue allocation checks
-  - Outputs: ✅ Compliant (Halal) / ❌ Non-Compliant (Haram)
+  - Outputs: ✅ Compliant / ❌ Non-Compliant
 
 ## Tech Stack
 
